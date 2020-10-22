@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[1.1]: http://i.imgur.com/P3YfQoD.png
-[1.2]: http://i.imgur.com/0o48UoR.png
-
 <!--
 **sidneylopes/sidneylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -12,6 +9,6 @@ I started my programming journey in 2018 with C++. In 2019 I started studying WE
 
 
 
-![alt text][1.1]
-![alt text][1.2]
+#### Me encontre aqui 👇🏻
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissadantier)](https://github.com/larissadantier) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-dantier-858b1884/)](https://www.linkedin.com/in/larissa-dantier-858b1884/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/larissa.dantier/?hl=pt)](https://www.instagram.com/larissa.dantier/?hl=pt) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissa_dantier@hotmail.com)](mailto:larissa_dantier@hotmail.com)
 

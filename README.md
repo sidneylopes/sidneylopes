@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[1.1]: http://i.imgur.com/tXSoThF.png
+[1.1]: http://i.imgur.com/P3YfQoD.png
+[1.2]: http://i.imgur.com/0o48UoR.png
+
 <!--
 **sidneylopes/sidneylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -11,4 +13,5 @@ I started my programming journey in 2018 with C++. In 2019 I started studying WE
 
 
 ![alt text][1.1]
+![alt text][1.2]
 

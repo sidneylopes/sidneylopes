@@ -10,5 +10,5 @@ I started my programming journey in 2018 with C++. In 2019 I started studying WE
 
 
 
-[1.1]
+[![alt text][1.1]]
 

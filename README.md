@@ -7,6 +7,7 @@ I'm Sidney Lopes, a 17-year-old full-stack WEB developer. I'm from Livingston, N
 
 I started my programming journey in 2018 with C++. In 2019 I started studying WEB development and most recently, I began to study mobile development.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sidneylopes&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneylopes&hide=makefile,perl&theme=dark)
 
 #### Social media 👇🏻

@@ -3,9 +3,9 @@
 <!--
 **sidneylopes/sidneylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Sidney Lopes, an 18-year-old full-stack WEB developer currently getting a bachelors in Software Engineering. From the US, based in BR.
+I'm Sidney Lopes, a full-stack WEB developer persuing a BS in Software Engineering. From the US, based in BR.
 
-I started my programming journey in 2018 with C++ and in 2019, I started studying WEB and mobile development. I work a lot with PHP and plain HTML/CSS, but I do enjoy working with Node.js + React a lot. I'll also probably be studying Python or Go in a close future, but not for any specific reason though...
+I started my programming journey in 2018 with C++ and in 2019, I started studying WEB and mobile development. I currently work with Laravel, React and MySQL, but I do enjoy working with Node.js + React a lot.
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=sidneylopes&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneylopes&layout=compact&langs_count=4&hide=makefile,perl&theme=tokyonight)-->

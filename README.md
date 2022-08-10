@@ -5,7 +5,7 @@
 
 I'm Sidney Lopes, a full-stack WEB developer persuing a BS in Software Engineering. From the US, based in BR.
 
-I started my programming journey in 2018 with C++ and in 2019, I started studying WEB and mobile development. I currently work with Laravel, React.js and MySQL, but I do enjoy working with Node.js + React.js a lot.
+I started my programming journey in 2018 with C++ and in 2019, I started studying WEB and mobile development. I currently work with Laravel, Typescript, React, AngularJS and MySQL, and I also have experience with Node and React Native.
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=sidneylopes&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneylopes&layout=compact&langs_count=4&hide=makefile,perl&theme=tokyonight)-->
